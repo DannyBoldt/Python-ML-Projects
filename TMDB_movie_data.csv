@@ -1,0 +1,20 @@
+film,revenue,genres,budget,popularity,original_language
+Spider-Man: No Way Home,1161281855,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",200000000,10507.821,en
+The Battle at Lake Changjin,888577720,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",0,10.774,zh
+"Hi, Mom",822049668,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",59000000,4.228,zh
+No Time to Die,771000000,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",242000000,1056.934,en
+F9,721077945,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}, {'id': 12, 'name': 'Adventure'}]",200000000,643.674,en
+Detective Chinatown 3,686257563,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}]",0,7.929,zh
+Zack Snyder's Justice League,657000000,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",70000000,458.037,en
+Venom: Let There Be Carnage,500000000,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",110000000,5334.034,en
+Godzilla vs. Kong,467863133,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",200000000,451.235,en
+Shang-Chi and the Legend of the Ten Rings,430238384,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",150000000,2651.545,en
+Eternals,400000000,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",200000000,1631.139,en
+Dune,393585276,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",165000000,931.717,en
+Black Widow,378328978,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",200000000,661.065,en
+Free Guy,331096766,"[{'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",110000000,961.772,en
+A Quiet Place Part II,297372261,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]",61000000,267.131,en
+Cruella,233274812,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",200000000,522.158,en
+Jungle Cruise,217000000,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 28, 'name': 'Action'}]",200000000,546.897,en
+Raging Fire,205000000,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",0,11.255,cn
+The Conjuring: The Devil Made Me Do It,201000000,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",39000000,312.112,en
