@@ -28,7 +28,7 @@ locale.setlocale( locale.LC_ALL, '' )
 """
 # Input unique API access key on line below.
 """
-api_key = '14e84d27b089b58964962c9d8a517fdf'
+api_key = ''
 
 # Specify primary release year below to choose which year to pull films from.
 response = requests.get('https://api.themoviedb.org/3/discover/movie?api_key=' +  api_key + '&primary_release_year=2021&sort_by=revenue.desc')
